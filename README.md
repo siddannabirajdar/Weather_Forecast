@@ -6,8 +6,7 @@ Average, Maximum, and Minimum Temperatures.
 Dominant Weather Condition for the day.
 User-configurable alerts based on threshold breaches (e.g., high temperatures).
 
-Technologies Used
-
+Technologies Used\n
 Frontend: HTML, CSS, JavaScript
 API: OpenWeatherMap API
 Visualization Libraries: Chart.js (for visualizing trends and alerts)
